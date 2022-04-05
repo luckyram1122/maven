@@ -4,11 +4,11 @@ public interface User extends Domain{
 
 	String getFirstName();
 
-	void setFirstName(String firstName commit changes);
+	void setFirstName(String firstName commit change);
 
 	String getLastName();
 
-	void setLastName(String lastName commit changes);
+	void setLastName(String lastName);
 
 	String getEmail();
 
