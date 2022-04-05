@@ -2,7 +2,7 @@ package com.javachap.domain;
 
 public interface Lead extends Domain{
 	
-	enum Status {New, Published commit change lead java}
+	enum Status {New, Published commit change lead java file}
 
 	String getTitle();
 
