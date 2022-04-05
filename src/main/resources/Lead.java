@@ -10,7 +10,7 @@ public interface Lead extends Domain{
 
 	String getDescription();
 
-	void setDescription(String description);
+	void setDescription(String description commit change lead java file);
 
 	String getFirstName();
 
